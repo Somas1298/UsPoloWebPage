@@ -1,0 +1,83 @@
+#signup{
+    padding-top: 100px;
+    background-image: url("COMING_SOON_DEKSTOP_BANNER_copy_4_2.webp");
+    height: 750px;
+    width: 1310px;
+}
+
+.Firstname{
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.Lastname{
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+#mb-3{
+    margin-left: 25px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.Emailid{
+width: 500px;
+margin-left: 20px;
+margin-top: 5px;
+border-radius: 5px;
+}
+.Password{
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+#bu{
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+#op{
+    margin-left: 495px;
+    margin-top: -30px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+#firnam{
+    margin-left: 20px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: gainsboro;
+}
+
+#lasnam{
+    margin-left: 20px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: gainsboro;
+    margin-top: 20px;
+}
+#emailid{
+    margin-left: 20px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: gainsboro;
+    margin-top: 20px;  
+}
+
+#pass{
+    margin-left: 20px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: gainsboro;
+    margin-top: 20px;
+}
+
+#bu1{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 200px;
+}
